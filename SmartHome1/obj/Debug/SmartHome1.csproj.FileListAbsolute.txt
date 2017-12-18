@@ -1,0 +1,8 @@
+C:\Users\Abai\Desktop\SmartHome1\SmartHome1\bin\Debug\SmartHome1.exe.config
+C:\Users\Abai\Desktop\SmartHome1\SmartHome1\obj\Debug\SmartHome1.csprojResolveAssemblyReference.cache
+C:\Users\Abai\Desktop\SmartHome1\SmartHome1\bin\Debug\SmartHome1.exe
+C:\Users\Abai\Desktop\SmartHome1\SmartHome1\bin\Debug\SmartHome1.pdb
+C:\Users\Abai\Desktop\SmartHome1\SmartHome1\obj\Debug\SmartHome1.exe
+C:\Users\Abai\Desktop\SmartHome1\SmartHome1\obj\Debug\SmartHome1.pdb
+C:\Users\Abai\Desktop\SmartHome1\SmartHome1\bin\Debug\ClassLibrary1.dll
+C:\Users\Abai\Desktop\SmartHome1\SmartHome1\bin\Debug\ClassLibrary1.pdb
